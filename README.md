@@ -40,7 +40,7 @@ Results-driven **.NET Full Stack Developer** with strong experience in ASP.NET C
 
 ## 💼 Work Experience
 
-### **DotNet Developer
+### **DotNet Developer**
 
 * Built and maintained multiple applications using .NET Core, MVC, Web APIs, and SQL Server
 * Integrated **SignalR** for real-time communication
