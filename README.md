@@ -40,7 +40,7 @@ Results-driven **.NET Full Stack Developer** with strong experience in ASP.NET C
 
 ## 💼 Work Experience
 
-### **DotNet Developer — CS Soft Solutions Pvt. Ltd., Mohali** (Mar 2023 – Present)
+### **DotNet Developer
 
 * Built and maintained multiple applications using .NET Core, MVC, Web APIs, and SQL Server
 * Integrated **SignalR** for real-time communication
@@ -48,43 +48,6 @@ Results-driven **.NET Full Stack Developer** with strong experience in ASP.NET C
 * Worked closely with React teams to integrate REST APIs
 * Migrated legacy .NET Framework systems to **.NET 6** using Clean Architecture
 * Active participant in Agile sprints, code reviews, and CI/CD pipelines
-
----
-
-## 📦 Projects
-
-### **Dotnet Scrapper (FedEx & UPS)** — *Team Size: 5 | .NET, SQL Server, Selenium*
-
-* Automated invoice download workflows for FedEx & UPS
-* Used **Selenium with undetected Chrome** for stable scraping
-* Wrote optimized DB queries & stored procedures
-
-### **Heavily Played (Cards Marketplace)** — *Team Size: 12 | ASP.NET Core, PostgreSQL, LINQ*
-
-* Developed core marketplace modules using **Domain-Driven Design**
-* Collaborated with clients to refine requirements
-* Improved API & query performance
-
-### **Schroder & Strom (Law Firm Platform)** — *Team Size: 5 | ASP.NET MVC, C#, SQL Server*
-
-* Developed core modules for a New York-based real estate tax law firm
-* Built secure UI & backend features for case management
-* Streamlined client communication & document management
-
----
-
-## 🎓 Education & Training
-
-* **BCA** — Himachal Pradesh University, Shimla (2016–2019)
-* **6 Months Industrial Training** — CS Infotech, Chandigarh (2022–2023)
-
----
-
-## 💪 Strengths
-
-* Excellent problem‑solving & debugging skills
-* Quick learner and strong communicator
-* Keen interest in system design & clean architecture
 
 ---
 
