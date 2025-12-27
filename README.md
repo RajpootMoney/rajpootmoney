@@ -11,7 +11,7 @@ I'm Narender, a passionate **.NET Full-Stack Developer** from India!
 
 ## 🚀 About Me
 
-* 👨‍💻 **.NET Full Stack Developer** with 2.9+ years of experience building scalable web apps
+* 👨‍💻 **.NET Full Stack Developer** with 2 years and 9 months of experience building scalable web apps
 * 💡 Passionate about **clean code**, **architecture**, and solving real-world problems
 * 📚 Constantly learning new tools and improving DSA skills
 * 🎯 Goal: Dive deeper into **data science fundamentals** and build innovative full‑stack projects
