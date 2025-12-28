@@ -46,7 +46,7 @@ Results-driven **.NET Full Stack Developer** with strong experience in ASP.NET C
 ## 🌐 Connect with Me
 
 📧 **Email:** [narender.dotnet@zohomail.in](mailto:narenderjazwal@gmail.com)
-🔗 **LinkedIn:** linkedin.com/in/rajpootmoney
+🔗 **LinkedIn:** [linkedin.com/in/rajpootmoney](https://www.linkedin.com/in/rajpootmoney/)
 
 ---
 
