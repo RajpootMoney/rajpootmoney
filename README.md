@@ -45,7 +45,7 @@ Results-driven **.NET Full Stack Developer** with strong experience in ASP.NET C
 
 ## ⭐ More GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajpootmoney&theme=dracula%22 />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajpootmoney&theme=dracula/>
 </div>
 
 ---
