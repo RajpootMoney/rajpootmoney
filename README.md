@@ -43,6 +43,13 @@ Results-driven **.NET Full Stack Developer** with strong experience in ASP.NET C
 
 ---
 
+## ⭐ More GitHub Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajpootmoney&… />
+</div>
+
+---
+
 ## 🌐 Connect with Me
 
 📧 **Email:** [narender.dotnet@zohomail.in](mailto:narenderjazwal@gmail.com)
