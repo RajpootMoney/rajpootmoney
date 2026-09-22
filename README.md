@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>Results-driven .NET Full Stack Developer from India, passionate about clean code, scalable architecture, and solving real-world problems.</em>
-</p>
+</p> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajpootmoney/">
