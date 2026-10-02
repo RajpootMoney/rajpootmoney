@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=25C2A0&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Narender;A+.NET+Full-Stack+Developer" alt="Typing SVG" />
 </div>
- 
+
 <p align="center">
   <em>Results-driven .NET Full Stack Developer from India, passionate about clean code, scalable architecture, and solving real-world problems.</em>
 </p> 
