@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 **.NET Full Stack Developer** with 3 years of experience building scalable web apps.
+- 👨‍💻 **.NET Full Stack Developer** with 3.5+ years of experience building scalable web apps.
 - 💡 Passionate about **clean code**, **architecture** (OOP, SOLID, DDD), and **Agile** practices.
 - 📚 Constantly exploring **AI & Machine Learning** to build smarter, next-gen applications.
 - 🎯 Goal: Integrate **Generative AI & LLMs** (like OpenAI) into robust, full-stack enterprise solutions.
